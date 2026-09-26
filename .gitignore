@@ -216,3 +216,13 @@ __marimo__/
 
 # Streamlit
 .streamlit/secrets.toml
+# Project data files
+data/*.csv
+
+# SQLite database
+*.db
+
+# macOS system files
+.DS_Store
+
+.vscode/
